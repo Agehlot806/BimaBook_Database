@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6341083c5b4e15920861d422"
+  },
+  "state_id": "5AC1969994",
+  "state": "Andaman & Nicobar Islands",
+  "rto_code": "AN01"
+},{
+  "_id": {
+    "$oid": "634108485b4e15920861d424"
+  },
+  "state_id": "5AC1969994",
+  "state": "Andaman & Nicobar Islands",
+  "rto_code": "AN02"
+},{
+  "_id": {
+    "$oid": "6341085f5b4e15920861d426"
+  },
+  "state_id": "5AC1969994",
+  "state": "Andhra Pradesh",
+  "rto_code": "AP01"
+},{
+  "_id": {
+    "$oid": "634108725b4e15920861d428"
+  },
+  "state_id": "5AC1969994",
+  "state": "Andhra Pradesh",
+  "rto_code": "AP02"
+},{
+  "_id": {
+    "$oid": "634108bf5b4e15920861d42a"
+  },
+  "state_id": "5AC1969994",
+  "state": "Andhra Pradesh",
+  "rto_code": "AP03"
+}]

@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "632196319b6aadade4e94c77"
+  },
+  "id": 1,
+  "action_time": {
+    "$date": {
+      "$numberLong": "1663145521765"
+    }
+  },
+  "user_id": 1,
+  "content_type_id": 7,
+  "object_id": "7CF1C59C70C8452",
+  "object_repr": "raj",
+  "action_flag": 1,
+  "change_message": "[{\"added\": {}}]"
+},{
+  "_id": {
+    "$oid": "632950752a0b393e12915270"
+  },
+  "id": 2,
+  "action_time": {
+    "$date": {
+      "$numberLong": "1663651957001"
+    }
+  },
+  "user_id": 2,
+  "content_type_id": 17,
+  "object_id": "3A7EB03",
+  "object_repr": "Policy object (3A7EB03)",
+  "action_flag": 1,
+  "change_message": "[{\"added\": {}}]"
+},{
+  "_id": {
+    "$oid": "6340182834cc17f677b191fe"
+  },
+  "id": 3,
+  "action_time": {
+    "$date": {
+      "$numberLong": "1665144872669"
+    }
+  },
+  "user_id": 3,
+  "content_type_id": 23,
+  "object_id": "6340182834cc17f677b191fd",
+  "object_repr": "Andaman & Nicobar Islands",
+  "action_flag": 1,
+  "change_message": "[{\"added\": {}}]"
+},{
+  "_id": {
+    "$oid": "63401c3835d0f2251d0a4e19"
+  },
+  "id": 4,
+  "action_time": {
+    "$date": {
+      "$numberLong": "1665145912707"
+    }
+  },
+  "user_id": 3,
+  "content_type_id": 23,
+  "object_id": "B75FF419B7",
+  "object_repr": "Andaman & Nicobar Islands",
+  "action_flag": 1,
+  "change_message": "[{\"added\": {}}]"
+},{
+  "_id": {
+    "$oid": "6340202035d0f2251d0a4e1b"
+  },
+  "id": 5,
+  "action_time": {
+    "$date": {
+      "$numberLong": "1665146912420"
+    }
+  },
+  "user_id": 3,
+  "content_type_id": 23,
+  "object_id": "B75FF419B7",
+  "object_repr": "Andhra Pradesh",
+  "action_flag": 1,
+  "change_message": "[{\"added\": {}}]"
+},{
+  "_id": {
+    "$oid": "6341083c5b4e15920861d423"
+  },
+  "id": 6,
+  "action_time": {
+    "$date": {
+      "$numberLong": "1665206332716"
+    }
+  },
+  "user_id": 3,
+  "content_type_id": 23,
+  "object_id": "5AC1969994",
+  "object_repr": "Andaman & Nicobar Islands",
+  "action_flag": 1,
+  "change_message": "[{\"added\": {}}]"
+},{
+  "_id": {
+    "$oid": "634108485b4e15920861d425"
+  },
+  "id": 7,
+  "action_time": {
+    "$date": {
+      "$numberLong": "1665206344409"
+    }
+  },
+  "user_id": 3,
+  "content_type_id": 23,
+  "object_id": "5AC1969994",
+  "object_repr": "Andaman & Nicobar Islands",
+  "action_flag": 1,
+  "change_message": "[{\"added\": {}}]"
+},{
+  "_id": {
+    "$oid": "6341085f5b4e15920861d427"
+  },
+  "id": 8,
+  "action_time": {
+    "$date": {
+      "$numberLong": "1665206367948"
+    }
+  },
+  "user_id": 3,
+  "content_type_id": 23,
+  "object_id": "5AC1969994",
+  "object_repr": "Andhra Pradesh",
+  "action_flag": 1,
+  "change_message": "[{\"added\": {}}]"
+},{
+  "_id": {
+    "$oid": "634108725b4e15920861d429"
+  },
+  "id": 9,
+  "action_time": {
+    "$date": {
+      "$numberLong": "1665206386154"
+    }
+  },
+  "user_id": 3,
+  "content_type_id": 23,
+  "object_id": "5AC1969994",
+  "object_repr": "Andhra Pradesh",
+  "action_flag": 1,
+  "change_message": "[{\"added\": {}}]"
+},{
+  "_id": {
+    "$oid": "634108bf5b4e15920861d42b"
+  },
+  "id": 10,
+  "action_time": {
+    "$date": {
+      "$numberLong": "1665206463626"
+    }
+  },
+  "user_id": 3,
+  "content_type_id": 23,
+  "object_id": "5AC1969994",
+  "object_repr": "Andhra Pradesh",
+  "action_flag": 1,
+  "change_message": "[{\"added\": {}}]"
+}]
